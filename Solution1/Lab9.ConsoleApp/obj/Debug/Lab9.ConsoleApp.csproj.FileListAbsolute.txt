@@ -1,0 +1,7 @@
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\obj\Debug\Lab9.ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\obj\Debug\Lab9.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\bin\Debug\Lab9.ConsoleApp.exe.config
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\bin\Debug\Lab9.ConsoleApp.exe
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\bin\Debug\Lab9.ConsoleApp.pdb
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\obj\Debug\Lab9.ConsoleApp.exe
+D:\Work\Cursuri\.NET Beginners\.NET-Course-Beginners-Lab-9\Solution1\Lab9.ConsoleApp\obj\Debug\Lab9.ConsoleApp.pdb
